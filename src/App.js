@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <>
-    <h1>hello world</h1>
+    <h1>hello </h1>
       {isMeetingStarted ? (
         <MeetingAppProvider
           selectedMic={selectedMic}
